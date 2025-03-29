@@ -16,3 +16,4 @@ C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyAppConsumer\obj\Debug\net8.0\refin
 C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.pdb
 C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.genruntimeconfig.cache
 C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyAppConsumer\obj\Debug\net8.0\ref\LegacyAppConsumer.dll
+C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.sourcelink.json

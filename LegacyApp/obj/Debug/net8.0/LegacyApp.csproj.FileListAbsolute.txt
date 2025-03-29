@@ -9,3 +9,4 @@ C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
 C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
 C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
 C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
+C:\Users\garyp\OneDrive\Desktop\zadanie\LegacyApp\obj\Debug\net8.0\LegacyApp.sourcelink.json
